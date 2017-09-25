@@ -6,6 +6,6 @@ solutions to suit the needs of the Electron Ion Collider (EIC) community.
 
 # API
 ## go-eicio
-[![GoDoc](https://godoc.org/github.com/decibelCooper/eicio/go-eicio?status.svg)](https://godoc.org/github.com/decibelCooper/eicio/go-eicio)
+[![GoDoc](https://godoc.org/github.com/decibelcooper/eicio/go-eicio?status.svg)](https://godoc.org/github.com/decibelcooper/eicio/go-eicio)
 
 ## cpp-eicio
